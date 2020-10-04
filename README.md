@@ -2,7 +2,8 @@
 
 Performing analysis on Kickstarter data to uncover trends.
 
-## Background
+## Overview
+### Background
   Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter datase, we will visualize campaign outcomes based on their launch dates and their funding goals.
   
   Kickstarter is a crowdsourcing platform that connects creators with capital and audience. The data the application connects is used to understand campaign performance and further used to draw potential conclusions as to why or why not campaigns succeed or fail given the information provided from the creator. 
