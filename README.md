@@ -49,7 +49,8 @@ Performing analysis on Kickstarter data to uncover trends.
     2. Any creator should feel confident in starting a theater campaign at any given time of the year. There is at least a 50% chance of successful fund raising. The worst month, given the data, would be to start a campaign in December.
     
 - What can you conclude about the Outcomes based on Goals?
-    1. Goals between 1000
+    1. Goals between 1000 and 4999 currency units were the most successful. Whether this be because of the size of the audience and their interest in the campaign or some other variable is limited by the dataset.
+    2. It is important to set a fundraising goal that is attainable and sufficient for a project to be successful in recieving funds and attention.
 
 - What are some limitations of this dataset?
     * Kickstarter is the marketplace on which all these campaigns live or die. This does not include a more traditional form of fund raising, word of mouth, or other forms of marketing. 
