@@ -1,4 +1,5 @@
 # An Analysis of Kickstarter Campaigns
+
 Performing analysis on Kickstarter data to uncover trends.
 
 ## Background
@@ -18,7 +19,7 @@ Performing analysis on Kickstarter data to uncover trends.
   
   The results contained herein show how I looked at the information in perspective with the information of Louise's campaign. 
 
-### * Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date
 
   Campaign start dates suggest months that are more likely to succeed. Summer seems to have the greatest chance of success for theater campaigns. I performed my analysis by looking at which months had the highest successful outcome count. Then I looked at how many successful campaigns there were total. I believe this helps better understand how successful campagins compare against each other and then how much they vary based on on failed during the same month.
   
@@ -27,13 +28,13 @@ Performing analysis on Kickstarter data to uncover trends.
       ![Outcomes Based on Launch Date](/desktop/data_science_bootcamp/resources/outcomes_based_on_launch_date.png)
      
 
-### * Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals
 
   _Fever_ was successful at raising £4000. Louise's play fell in the mode. There are 932 other campaigns that wanted to raise between 1000 and 5000 currency units. Although Louise's project was in the mode, success rate for campaigns with this goal were 66%. That success rate is the second highest but not the first. Her goal likely attributed to the successful raise of her play.
   
   The play may have flopped had she attempted to raise more money. Chances of a successful raise go down when goal amounts increase. This inverse relationship shows us that the goal amount is indicates potential of success for any given project on Kickstarter.
 
-### * Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
   The analysis of Outcomes Based on Launch Date and Outcomes Based on Goals were dervived from different styles of data visualization. Outcomes Based on Launch Date was also filtered more than the Outcomes Based on Goals. This meant that each analysis were not on the same lateral level. Any analysis on the outcomes based on goals included the whole scope of projects while the outcomes based on launch dates were only projects with the "theater" platform.
   
