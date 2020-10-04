@@ -2,19 +2,21 @@
 Performing analysis on Kickstarter data to uncover trends.
 
 ## Background
-  Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter datase, we will visualize campaign outcomes based on their launch dates and their funding goals.
+  Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter datase, we will visualize campaign outcomes based on their launch dates and their funding goals.
   
 ### Purpose
 
-  The purpose of this report is to compare Louise's Kickstarter campaign to similar both historical and live campaigns on the crowdfunding application.
+  The purpose of this report is to compare Louise's Kickstarter campaign to similar campaigns on the crowdfunding platform given the launch date and funding goals. By understanding historical data from campaigns, 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### * Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+      ![Outcomes Based on Launch Date](/desktop/data_science_bootcamp/resources/outcomes_based_on_launch_date.png)
 
-### Challenges and Difficulties Encountered
+### * Analysis of Outcomes Based on Goals
+
+### * Challenges and Difficulties Encountered
 
 ## Results
 
