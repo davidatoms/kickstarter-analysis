@@ -22,12 +22,11 @@ Performing analysis on Kickstarter data to uncover trends.
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+
   Campaign start dates suggest months that are more likely to succeed. Summer seems to have the greatest chance of success for theater campaigns. I performed my analysis by looking at which months had the highest successful outcome count. Then I looked at how many successful campaigns there were total. I believe this helps better understand how successful campagins compare against each other and then how much they vary based on on failed during the same month.
   
   May and June had the highest count of successful outcomes. December was not a great month to start a campagin in theater. It was almost equally as likely to fail as it was to succeed in that month. Given this information, we can better understand which secondary information about the theater market I could include in another report about Louise's fundraiser on Kickstarter. 
-  
-      ![Outcomes Based on Launch Date](/desktop/data_science_bootcamp/resources/outcomes_based_on_launch_date.png)
-     
 
 ### Analysis of Outcomes Based on Goals
 
