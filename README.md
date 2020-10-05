@@ -2,6 +2,10 @@
 
 Performing analysis on Kickstarter data to uncover trends.
 
+Written by David Adams
+
+October 4, 2020
+
 ## Overview
 ### Background
   Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter datase, we will visualize campaign outcomes based on their launch dates and their funding goals.
@@ -29,6 +33,8 @@ Performing analysis on Kickstarter data to uncover trends.
   May and June had the highest count of successful outcomes. December was not a great month to start a campagin in theater. It was almost equally as likely to fail as it was to succeed in that month. Given this information, we can better understand which secondary information about the theater market I could include in another report about Louise's fundraiser on Kickstarter. 
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes Based on Goals](https://github.com/davidcodescool/kickstarter-analysis/blob/main/outcome_based_on_goal.png)
 
   _Fever_ was successful at raising £4000. Louise's play fell in the mode. There are 932 other campaigns that wanted to raise between 1000 and 5000 currency units. Although Louise's project was in the mode, success rate for campaigns with this goal were 66%. That success rate is the second highest but not the first. Her goal likely attributed to the successful raise of her play.
   
