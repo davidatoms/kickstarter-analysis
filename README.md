@@ -12,6 +12,7 @@ November 21, 2020
   
   Kickstarter is a crowdsourcing platform that connects creators with capital and audience. The data the application connects is used to understand campaign performance and further used to draw potential conclusions as to why or why not campaigns succeed or fail given the information provided from the creator. It is a platform for those with ideas to gain capital and audience. It is the first theater that the idea of Louise's play will find its first external engagement from potential customers and viewers.
   
+  
 ### Purpose
 
   The purpose of this report is to compare Louise's Kickstarter campaign to similar campaigns on the crowdfunding platform given the launch date and funding goals. Her project gained real traction and now we need to determine how the traction was gained, how that traction compares to other campaigns--both similar and different from hers, and what other variables could influence a quick and successful campaign on the Kickstarter crowdsourcing application.
@@ -51,6 +52,7 @@ November 21, 2020
   Furthermore, the analysis of percentages is different than that of pure numeric outcomes. Outcomes based on launch date does not include the percentages of success, failed, and canceled while the Outcomes Based on Goal do. Similarly, I could look at the mode of each data set. This shows the most successful point in both situations. With that as a starting point, I also looked at the worst months. The approach to look at the greatest and smallest values frames the range of the data where all other data sits. 
   
    Writing this report was also difficult. My analysis seems more like observational comments on the data and I don't know if that is what is required. I also don't know if I should frame the two datasets on an equallateral level--meaning that when I analyze the data of theaters on launch dates, I'd like to also analyze  outcomes based on goals with the theater filter.
+
 
 ## Results
 
