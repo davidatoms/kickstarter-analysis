@@ -4,21 +4,23 @@ Performing analysis on Kickstarter data to uncover trends.
 
 Written by David Adams
 
-October 4, 2020
+November 21, 2020
 
 ## Overview
 ### Background
-  Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter datase, we will visualize campaign outcomes based on their launch dates and their funding goals.
+  Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, we will visualize campaign outcomes based on their launch dates and their funding goals. This is important to understand her data and further her fundraising efforts. For example, she can use this data when pitching to theaters or other investors about the strength of her idea with data points to support her dream of making _Fever_ a real-life play on the stage.
   
-  Kickstarter is a crowdsourcing platform that connects creators with capital and audience. The data the application connects is used to understand campaign performance and further used to draw potential conclusions as to why or why not campaigns succeed or fail given the information provided from the creator. 
+  Kickstarter is a crowdsourcing platform that connects creators with capital and audience. The data the application connects is used to understand campaign performance and further used to draw potential conclusions as to why or why not campaigns succeed or fail given the information provided from the creator. It is a platform for those with ideas to gain capital and audience. It is the first theater that the idea of Louise's play will find its first external engagement from potential customers and viewers.
   
 ### Purpose
 
   The purpose of this report is to compare Louise's Kickstarter campaign to similar campaigns on the crowdfunding platform given the launch date and funding goals. Her project gained real traction and now we need to determine how the traction was gained, how that traction compares to other campaigns--both similar and different from hers, and what other variables could influence a quick and successful campaign on the Kickstarter crowdsourcing application.
+  
+  Furthermore, this is the first step to understanding key metrics that drive success of her play. These metrics of fundraising and engagement should be able to help Louise visualize the actions taken by others in regards to her idea for a play. Similar data should also be framed in future events to help her understand the variables affecting the success of bringing her play to life.
 
 ## Analysis and Challenges
 
-  The _Fever_ spread. The data below shows how this play compares to other campaigns in theater and in general based on campaign start dates. With further information on attendance at plays given different months, the interest in attending plays after seeing it online, and how many people saw the play, we could could conclude how successful her raise was with more confidence and accuracy.
+  The _Fever_ spread quickly--the play was hot. The data below shows how this play compares to other campaigns in theater and in general based on campaign start dates. With further information on attendance at plays given different months, the interest in attending plays after seeing it online, and how many people saw the play, we could could conclude how successful her raise was with more confidence and accuracy.
   
   Challenges include not knowing when Louise started her campaign and other data from her campaign that could easily be put into the spreadsheet. By adding her data and highlighting it throughout all the analysis could stack it up next to the other campaigns. This could even be done by freezing the panes on the kickstarter worksheet to see exactly how it differs and is similar to the other campaigns given.
   
@@ -31,6 +33,8 @@ October 4, 2020
   Campaign start dates suggest months that are more likely to succeed. Summer seems to have the greatest chance of success for theater campaigns. I performed my analysis by looking at which months had the highest successful outcome count. Then I looked at how many successful campaigns there were total. I believe this helps better understand how successful campagins compare against each other and then how much they vary based on on failed during the same month.
   
   May and June had the highest count of successful outcomes. December was not a great month to start a campagin in theater. It was almost equally as likely to fail as it was to succeed in that month. Given this information, we can better understand which secondary information about the theater market I could include in another report about Louise's fundraiser on Kickstarter. 
+  
+  If I were to provide further data points to compare, I would look at data from theaters around the world and compare which dates were more popular. This may be different in a worldwide pandemic, but I think that would also provide information to bolster any conculsions explored from my report.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -38,7 +42,7 @@ October 4, 2020
 
   _Fever_ was successful at raising £4000. Louise's play fell in the mode. There are 932 other campaigns that wanted to raise between 1000 and 5000 currency units. Although Louise's project was in the mode, success rate for campaigns with this goal were 66%. That success rate is the second highest but not the first. Her goal likely attributed to the successful raise of her play.
   
-  The play may have flopped had she attempted to raise more money. Chances of a successful raise go down when goal amounts increase. This inverse relationship shows us that the goal amount is indicates potential of success for any given project on Kickstarter.
+  The play may have flopped had she attempted to raise more money. Chances of a successful raise go down when goal amounts increase. This inverse relationship shows us that the goal amount is indicates potential of success for any given project on Kickstarter. Louise can use this insight to further her fundraising goals say she decides to start a GoFundMe.
 
 ### Challenges and Difficulties Encountered
 
@@ -46,7 +50,7 @@ October 4, 2020
   
   Furthermore, the analysis of percentages is different than that of pure numeric outcomes. Outcomes based on launch date does not include the percentages of success, failed, and canceled while the Outcomes Based on Goal do. Similarly, I could look at the mode of each data set. This shows the most successful point in both situations. With that as a starting point, I also looked at the worst months. The approach to look at the greatest and smallest values frames the range of the data where all other data sits. 
   
-   Writing this report was also difficult. My analysis seems more like observational comments on the data and I don't know if that is what is required. I also don't know if I should frame the two datasets on an equal lateral level--meaning that when I analyze the data of theaters on launch dates, I'd like to also base outcomes based on goals with the theater filter.
+   Writing this report was also difficult. My analysis seems more like observational comments on the data and I don't know if that is what is required. I also don't know if I should frame the two datasets on an equallateral level--meaning that when I analyze the data of theaters on launch dates, I'd like to also analyze  outcomes based on goals with the theater filter.
 
 ## Results
 
