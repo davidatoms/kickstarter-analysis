@@ -39,7 +39,7 @@ November 21, 2020
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Goals](https://github.com/davidcodescool/kickstarter-analysis/blob/main/outcome_based_on_goal.png)
+![Outcomes Based on Goals](https://github.com/davidcodescool/kickstarter-analysis/blob/main/outcomesvgoals_chart_correctsize.png)
 
   _Fever_ was successful at raising £4000. Louise's play fell in the mode. There are 932 other campaigns that wanted to raise between 1000 and 5000 currency units. Although Louise's project was in the mode, success rate for campaigns with this goal were 66%. That success rate is the second highest but not the first. Her goal likely attributed to the successful raise of her play.
   
