@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-Columbia Performing analysis on Kickstarter data to uncover trends.
+Columbia Data Analytics Module 1 - Performing analysis on Kickstarter data to uncover trends.
 
 ## Overview
   Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, we will visualize campaign outcomes based on their launch dates and their funding goals. This is important to understand her data and further her fundraising efforts. For example, she can use this data when pitching to theaters or other investors about the strength of her idea with data points to support her dream of making _Fever_ a real-life play on the stage.
