@@ -1,19 +1,14 @@
 # An Analysis of Kickstarter Campaigns
 
-Performing analysis on Kickstarter data to uncover trends.
-
-Written by David Adams
-
-November 21, 2020
+Columbia Performing analysis on Kickstarter data to uncover trends.
 
 ## Overview
-### Background
   Louise's play _Fever_ came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, we will visualize campaign outcomes based on their launch dates and their funding goals. This is important to understand her data and further her fundraising efforts. For example, she can use this data when pitching to theaters or other investors about the strength of her idea with data points to support her dream of making _Fever_ a real-life play on the stage.
   
   Kickstarter is a crowdsourcing platform that connects creators with capital and audience. The data the application connects is used to understand campaign performance and further used to draw potential conclusions as to why or why not campaigns succeed or fail given the information provided from the creator. It is a platform for those with ideas to gain capital and audience. It is the first theater that the idea of Louise's play will find its first external engagement from potential customers and viewers.
   
   
-### Purpose
+## Purpose
 
   The purpose of this report is to compare Louise's Kickstarter campaign to similar campaigns on the crowdfunding platform given the launch date and funding goals. Her project gained real traction and now we need to determine how the traction was gained, how that traction compares to other campaigns--both similar and different from hers, and what other variables could influence a quick and successful campaign on the Kickstarter crowdsourcing application.
   
@@ -27,7 +22,7 @@ November 21, 2020
   
   The results contained herein show how I looked at the information in perspective with the information of Louise's campaign. 
 
-### Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 
 ![Theater Outcomes vs. Launch Date](https://github.com/davidcodescool/kickstarter-analysis/blob/main/theater_outcomes_based_on_launch_date.png)
 
@@ -37,7 +32,7 @@ November 21, 2020
   
   If I were to provide further data points to compare, I would look at data from theaters around the world and compare which dates were more popular. This may be different in a worldwide pandemic, but I think that would also provide information to bolster any conculsions explored from my report.
 
-### Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 
 ![Outcomes Based on Goals](https://github.com/davidcodescool/kickstarter-analysis/blob/main/outcomesvgoals_chart_correctsize.png)
 
